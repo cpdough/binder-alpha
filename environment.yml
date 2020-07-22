@@ -11,4 +11,6 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - pyrasgo
+  - pip
+  - pip:
+    - pyrasgo
